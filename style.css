@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+}
+
+.illustration {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.cls-1 {
+    fill: #053030;
+  }
+
+  .cls-2 {
+    fill: #28936f;
+  }
+
+  .cls-3 {
+    fill: #ffc639;
+  }
+
+  .mountain {
+    /* fill:rgb(7, 71, 53); */
+  }
+
+  .cls-5 {
+    fill: #042807;
+  }
+
+  .cls-6 {
+    fill: #10420d;
+  }
+
+  .cls-7 {
+    fill: #1d661b;
+  }
+
+  .cls-8 {
+    fill: #398e35;
+  }
+
+  .cls-9 {
+    fill: #140704;
+  }
+
+  .cls-10 {
+    fill: #683b2f;
+  }
+
+  .cls-11 {
+    fill: #381b14;
+  }
+
+  .cls-12 {
+    fill: #4f291d;
+  }
+
+  .cls-13 {
+    fill: #8dccc0;
+  }
+
+  .cls-14, .cls-18 {
+    fill: #fff;
+  }
+
+  .cls-14 {
+    stroke: #261111;
+  }
+
+  .cls-15 {
+    fill: #261111;
+  }
+
+  .cls-16 {
+    fill: #fff7e6;
+  }
+
+  .cls-17 {
+    fill: #afd4e0;
+  }
+
+  .cls-19 {
+    fill: #101847;
+  }
+
+  .cls-20 {
+    fill: #fc763a;
+  }
+
+  .cls-21 {
+    fill: #d1532c;
+  }
+
+  .cls-22 {
+    fill: #ff8080;
+  }
+
+  .cls-23 {
+    fill: #011c02;
+  }
+
+  .cls-24 {
+    fill: #ffc5c5;
+  }
